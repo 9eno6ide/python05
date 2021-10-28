@@ -1,0 +1,6 @@
+x = input()
+def most_frequent = res
+res = {}
+for keys in x: 
+    res[keys] = res.get(keys, 0) + 1
+print ("Count of all characters in",x," is : \n" + str(res))
